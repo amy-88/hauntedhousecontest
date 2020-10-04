@@ -1,0 +1,25 @@
+body {
+    color: orange;
+    background-color: black;
+
+}
+
+h1 {
+    font-family: 'Carter One', cursive;
+}
+
+a {
+    font-family: 'Carter One', cursive;
+}
+
+img {
+    width: 70%;
+    height: 44%;
+}
+
+footer {
+    text-align: center;
+    text-transform: lowercase;
+    font-family: 'Roboto', sans-serif;
+    clear: both;
+}
